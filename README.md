@@ -8,4 +8,4 @@ socket.send_pyobj([stocks, period]) where send_pyobj sends an object, in this ca
 # Recieving stock information
 Receive information about the stocks using local host and port = 65432. The information will be a pandas object(simular to a csv file) which is displayed as a table with columns being stock values and quantity, and rows being the days that data was taken. The data received is the close and open value of the stock along with the days the data was taken.
 
-![UML diagram](https://github.com/MeaslyDay/CS361-Stock-Microservice/blob/mail/Stock microservice.jpg?raw=true)
+![UML diagram](https://github.com/MeaslyDay/CS361-Stock-Microservice/blob/mail/image.jpg?raw=true)
